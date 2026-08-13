@@ -78,17 +78,41 @@ I like shipping clean interfaces, practical systems, and a little bit of persona
 
 ---
 
-## GitHub Metrics
+## Current Focus
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/nevilusdad777?label=Followers&style=for-the-badge&color=00C6FF" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/nevilusdad777?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7C4DFF" alt="Stars" />
-  <img src="https://img.shields.io/github/repo-size/nevilusdad777/nevilusdad777?style=for-the-badge&color=F5A623" alt="Repo size" />
-  <img src="https://img.shields.io/github/commit-activity/y/nevilusdad777/nevilusdad777?style=for-the-badge&color=2ECC71" alt="Commit activity" />
-  <img src="https://img.shields.io/badge/Profile%20views-live-FF6B6B?style=for-the-badge" alt="Profile views" />
-</p>
-
-<p align="center"><sub>Live metrics cards are temporarily unavailable, so this section uses reliable visible badges instead.</sub></p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🚀 What I’m Building</b><br/><br/>
+      • Sharper full-stack products with cleaner user flows<br/>
+      • AI-powered features that feel useful, not gimmicky<br/>
+      • Better performance, deployment, and system design discipline<br/>
+      • Reusable UI patterns that scale across projects
+    </td>
+    <td width="50%" valign="top">
+      <b>🧭 What I’m Optimizing</b><br/><br/>
+      • Modern React and TypeScript architecture<br/>
+      • Secure backend APIs and auth flows<br/>
+      • Responsive layouts that hold up on mobile<br/>
+      • Production-quality polish in every repo
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>📬 Open To</b><br/><br/>
+      • Interesting full-stack collaborations<br/>
+      • SaaS, AI, and productivity products<br/>
+      • Design-heavy builds with strong UX direction<br/>
+      • Freelance or contract opportunities
+    </td>
+    <td width="50%" valign="top">
+      <b>🔗 Quick Links</b><br/><br/>
+      <a href="https://github.com/nevilusdad777?tab=repositories">View all repositories</a><br/>
+      <a href="https://nevilusdad.netlify.app/">Visit portfolio</a><br/>
+      <a href="mailto:nevilusdad@gmail.com">Email me</a>
+    </td>
+  </tr>
+</table>
 
 ---
 

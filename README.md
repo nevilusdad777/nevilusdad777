@@ -97,13 +97,6 @@ I like shipping clean interfaces, practical systems, and a little bit of persona
   </tr>
 </table>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nevilusdad777&theme=tokyonight&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=nevilusdad777&theme=default&hide_border=true" alt="GitHub streak" />
-  </picture>
-</div>
-
 ---
 
 ## Contribution Snake
@@ -121,71 +114,106 @@ I like shipping clean interfaces, practical systems, and a little bit of persona
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/nevilusdad777/murf-livekit-voice-assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nevilusdad777&repo=murf-livekit-voice-assistant&theme=transparent&hide_border=true" alt="murf-livekit-voice-assistant" /></a>
-      <p>A high-performance, real-time voice AI assistant powered by Gemini, Deepgram, and Murf Falcon, with a futuristic responsive React/Next.js dashboard.</p>
-      <p>
-        <img src="https://img.shields.io/github/repo-size/nevilusdad777/murf-livekit-voice-assistant?style=for-the-badge&color=00C6FF" />
-        <img src="https://img.shields.io/github/last-commit/nevilusdad777/murf-livekit-voice-assistant?style=for-the-badge&color=7C4DFF" />
-      </p>
+    <td width="50%" valign="top">
+      <b>🤖 Murf LiveKit Voice Assistant</b><br/>
+      <sub><a href="https://github.com/nevilusdad777/murf-livekit-voice-assistant">nevilusdad777/murf-livekit-voice-assistant</a></sub><br/><br/>
+      <b>What it does:</b> Real-time voice AI assistant with a futuristic dashboard, live interaction flow, and production-focused UX.<br/><br/>
+      <b>Highlights:</b><br/>
+      • Gemini + Deepgram + Murf Falcon integration<br/>
+      • Responsive React / Next.js interface<br/>
+      • Designed for high-performance conversational workflows<br/><br/>
+      <img src="https://img.shields.io/github/repo-size/nevilusdad777/murf-livekit-voice-assistant?style=for-the-badge&color=00C6FF" />
+      <img src="https://img.shields.io/github/last-commit/nevilusdad777/murf-livekit-voice-assistant?style=for-the-badge&color=7C4DFF" />
+      <br/><br/>
+      <a href="https://github.com/nevilusdad777/murf-livekit-voice-assistant">View Repository</a>
     </td>
-    <td width="50%">
-      <a href="https://github.com/nevilusdad777/Vyntra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nevilusdad777&repo=Vyntra&theme=transparent&hide_border=true" alt="Vyntra" /></a>
-      <p>A premium personal finance and expense tracker with React 19, Express, Prisma, Google OAuth, and a secure admin audit panel.</p>
-      <p>
-        <img src="https://img.shields.io/github/repo-size/nevilusdad777/Vyntra?style=for-the-badge&color=00C6FF" />
-        <img src="https://img.shields.io/github/last-commit/nevilusdad777/Vyntra?style=for-the-badge&color=7C4DFF" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/nevilusdad777/fitnova-fullstack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nevilusdad777&repo=fitnova-fullstack&theme=transparent&hide_border=true" alt="fitnova-fullstack" /></a>
-      <p>A full-stack fitness tracking platform for workout planning, calorie and water tracking, streaks, and admin workflows.</p>
-      <p>
-        <img src="https://img.shields.io/github/repo-size/nevilusdad777/fitnova-fullstack?style=for-the-badge&color=00C6FF" />
-        <img src="https://img.shields.io/github/last-commit/nevilusdad777/fitnova-fullstack?style=for-the-badge&color=7C4DFF" />
-      </p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/nevilusdad777/Brew-Bliss-Cafe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nevilusdad777&repo=Brew-Bliss-Cafe&theme=transparent&hide_border=true" alt="Brew-Bliss-Cafe" /></a>
-      <p>A cafe commerce system with auth, menu browsing, cart and order management, plus an admin dashboard for daily operations.</p>
-      <p>
-        <img src="https://img.shields.io/github/repo-size/nevilusdad777/Brew-Bliss-Cafe?style=for-the-badge&color=00C6FF" />
-        <img src="https://img.shields.io/github/last-commit/nevilusdad777/Brew-Bliss-Cafe?style=for-the-badge&color=7C4DFF" />
-      </p>
+    <td width="50%" valign="top">
+      <b>💸 Vyntra</b><br/>
+      <sub><a href="https://github.com/nevilusdad777/Vyntra">nevilusdad777/Vyntra</a></sub><br/><br/>
+      <b>What it does:</b> Premium personal finance and expense tracking platform with secure auth and admin controls.<br/><br/>
+      <b>Highlights:</b><br/>
+      • React 19, Express, and Prisma stack<br/>
+      • Google OAuth and secure user flows<br/>
+      • Separate admin audit panel for oversight<br/><br/>
+      <img src="https://img.shields.io/github/repo-size/nevilusdad777/Vyntra?style=for-the-badge&color=00C6FF" />
+      <img src="https://img.shields.io/github/last-commit/nevilusdad777/Vyntra?style=for-the-badge&color=7C4DFF" />
+      <br/><br/>
+      <a href="https://github.com/nevilusdad777/Vyntra">View Repository</a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/nevilusdad777/Nevil_Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nevilusdad777&repo=Nevil_Portfolio&theme=transparent&hide_border=true" alt="Nevil_Portfolio" /></a>
-      <p>A modern developer portfolio built with React and Vite to showcase projects, skills, and contact details in a responsive layout.</p>
-      <p>
-        <img src="https://img.shields.io/github/repo-size/nevilusdad777/Nevil_Portfolio?style=for-the-badge&color=00C6FF" />
-        <img src="https://img.shields.io/github/last-commit/nevilusdad777/Nevil_Portfolio?style=for-the-badge&color=7C4DFF" />
-      </p>
+    <td width="50%" valign="top">
+      <b>🏋️ FitNova</b><br/>
+      <sub><a href="https://github.com/nevilusdad777/fitnova-fullstack">nevilusdad777/fitnova-fullstack</a></sub><br/><br/>
+      <b>What it does:</b> Full-stack fitness tracking system for workouts, nutrition, hydration, and consistency tracking.<br/><br/>
+      <b>Highlights:</b><br/>
+      • Workout planning and progress tracking<br/>
+      • Streak-driven motivation and dashboard views<br/>
+      • Built with Angular, Node.js, and MongoDB<br/><br/>
+      <img src="https://img.shields.io/github/repo-size/nevilusdad777/fitnova-fullstack?style=for-the-badge&color=00C6FF" />
+      <img src="https://img.shields.io/github/last-commit/nevilusdad777/fitnova-fullstack?style=for-the-badge&color=7C4DFF" />
+      <br/><br/>
+      <a href="https://github.com/nevilusdad777/fitnova-fullstack">View Repository</a>
     </td>
-    <td width="50%">
-      <a href="https://github.com/nevilusdad777/CareerIQ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nevilusdad777&repo=CareerIQ&theme=transparent&hide_border=true" alt="CareerIQ" /></a>
-      <p>An AI-powered career guidance and placement predictor that blends React, Node.js, MongoDB, and Gemini AI for smart recommendations.</p>
-      <p>
-        <img src="https://img.shields.io/github/repo-size/nevilusdad777/CareerIQ?style=for-the-badge&color=00C6FF" />
-        <img src="https://img.shields.io/github/last-commit/nevilusdad777/CareerIQ?style=for-the-badge&color=7C4DFF" />
-      </p>
+    <td width="50%" valign="top">
+      <b>☕ Brew & Bliss Cafe</b><br/>
+      <sub><a href="https://github.com/nevilusdad777/Brew-Bliss-Cafe">nevilusdad777/Brew-Bliss-Cafe</a></sub><br/><br/>
+      <b>What it does:</b> Cafe commerce and operations system with ordering, cart management, and admin controls.<br/><br/>
+      <b>Highlights:</b><br/>
+      • Authentication and authorization flows<br/>
+      • Menu browsing, cart, and order management<br/>
+      • Admin dashboard for daily operations<br/><br/>
+      <img src="https://img.shields.io/github/repo-size/nevilusdad777/Brew-Bliss-Cafe?style=for-the-badge&color=00C6FF" />
+      <img src="https://img.shields.io/github/last-commit/nevilusdad777/Brew-Bliss-Cafe?style=for-the-badge&color=7C4DFF" />
+      <br/><br/>
+      <a href="https://github.com/nevilusdad777/Brew-Bliss-Cafe">View Repository</a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/nevilusdad777/Universel-Sales-ERP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nevilusdad777&repo=Universel-Sales-ERP&theme=transparent&hide_border=true" alt="Universel-Sales-ERP" /></a>
-      <p>An enterprise B2B Sales ERP system covering quotations, orders, invoices, payments, and secure role-based workflows.</p>
-      <p>
-        <img src="https://img.shields.io/github/repo-size/nevilusdad777/Universel-Sales-ERP?style=for-the-badge&color=00C6FF" />
-        <img src="https://img.shields.io/github/last-commit/nevilusdad777/Universel-Sales-ERP?style=for-the-badge&color=7C4DFF" />
-      </p>
+    <td width="50%" valign="top">
+      <b>🎨 Nevil Portfolio</b><br/>
+      <sub><a href="https://github.com/nevilusdad777/Nevil_Portfolio">nevilusdad777/Nevil_Portfolio</a></sub><br/><br/>
+      <b>What it does:</b> Personal portfolio site focused on project showcase, skills, and contact clarity.<br/><br/>
+      <b>Highlights:</b><br/>
+      • Modern responsive presentation<br/>
+      • React and Vite stack<br/>
+      • Built to keep the developer story clean and direct<br/><br/>
+      <img src="https://img.shields.io/github/repo-size/nevilusdad777/Nevil_Portfolio?style=for-the-badge&color=00C6FF" />
+      <img src="https://img.shields.io/github/last-commit/nevilusdad777/Nevil_Portfolio?style=for-the-badge&color=7C4DFF" />
+      <br/><br/>
+      <a href="https://github.com/nevilusdad777/Nevil_Portfolio">View Repository</a>
     </td>
-    <td width="50%">
-      <p><strong>Need one more project slot?</strong> Keep the same pattern above for any new repo you launch. The badge URLs only need the repository slug to stay in sync.</p>
-      <p>If you publish another public repo, duplicate a card and update the slug in the pin, size, and last-commit badges.</p>
+    <td width="50%" valign="top">
+      <b>🎯 CareerIQ</b><br/>
+      <sub><a href="https://github.com/nevilusdad777/CareerIQ">nevilusdad777/CareerIQ</a></sub><br/><br/>
+      <b>What it does:</b> AI-assisted career guidance and placement predictor with smart recommendations and progress views.<br/><br/>
+      <b>Highlights:</b><br/>
+      • Gemini-assisted insight generation<br/>
+      • React, Node.js, and MongoDB stack<br/>
+      • Built around useful user guidance rather than noise<br/><br/>
+      <img src="https://img.shields.io/github/repo-size/nevilusdad777/CareerIQ?style=for-the-badge&color=00C6FF" />
+      <img src="https://img.shields.io/github/last-commit/nevilusdad777/CareerIQ?style=for-the-badge&color=7C4DFF" />
+      <br/><br/>
+      <a href="https://github.com/nevilusdad777/CareerIQ">View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🏢 Universel Sales ERP</b><br/>
+      <sub><a href="https://github.com/nevilusdad777/Universel-Sales-ERP">nevilusdad777/Universel-Sales-ERP</a></sub><br/><br/>
+      <b>What it does:</b> Enterprise B2B sales ERP covering quotations, orders, invoices, payments, and RBAC.<br/><br/>
+      <b>Highlights:</b><br/>
+      • End-to-end sales workflow coverage<br/>
+      • Secure role-based access and auditability<br/>
+      • Designed for scalable business operations<br/><br/>
+      <img src="https://img.shields.io/github/repo-size/nevilusdad777/Universel-Sales-ERP?style=for-the-badge&color=00C6FF" />
+      <img src="https://img.shields.io/github/last-commit/nevilusdad777/Universel-Sales-ERP?style=for-the-badge&color=7C4DFF" />
+      <br/><br/>
+      <a href="https://github.com/nevilusdad777/Universel-Sales-ERP">View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <b>✨ Notes on the project list</b><br/><br/>
+      Each card above is now text-first, so it stays readable even when preview images do not render. If you add a new repo, duplicate one card and keep the same structure: title, repo link, short summary, highlights, repo size, and last commit.
     </td>
   </tr>
 </table>

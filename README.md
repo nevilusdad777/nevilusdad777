@@ -80,22 +80,15 @@ I like shipping clean interfaces, practical systems, and a little bit of persona
 
 ## GitHub Metrics
 
-<table align="center">
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nevilusdad777&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" />
-        <img height="175" src="https://github-readme-stats.vercel.app/api?username=nevilusdad777&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default&hide_border=true" alt="GitHub stats" />
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nevilusdad777&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevilusdad777&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Top languages" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/nevilusdad777?label=Followers&style=for-the-badge&color=00C6FF" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/nevilusdad777?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7C4DFF" alt="Stars" />
+  <img src="https://img.shields.io/github/repo-size/nevilusdad777/nevilusdad777?style=for-the-badge&color=F5A623" alt="Repo size" />
+  <img src="https://img.shields.io/github/commit-activity/y/nevilusdad777/nevilusdad777?style=for-the-badge&color=2ECC71" alt="Commit activity" />
+  <img src="https://img.shields.io/badge/Profile%20views-live-FF6B6B?style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center"><sub>Live metrics cards are temporarily unavailable, so this section uses reliable visible badges instead.</sub></p>
 
 ---
 

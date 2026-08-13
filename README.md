@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Nevil%20Usdad&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Nevil%20Usdad&fontFamily=Cinzel&fontSize=48&fontColor=F8E7C3&animation=twinkling&fontAlignY=35" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+developer+building+smart+products;React+%2B+Node.js+%2B+TypeScript+%3D+my+happy+place;AI-powered+experiences%2C+clean+UI%2C+fast+shipping;Always+learning%2C+always+shipping&font=Fira%20Code&center=true&width=900&height=70&color=00E5FF&vCenter=true&pause=900&size=24" alt="Typing SVG" />
 
@@ -22,25 +22,16 @@
 
 ## About Me
 
-```txt
-+--------------------------------------------------------------+
-|  Nevil Usdad                                                |
-|  Full-stack developer | AI builder | UI enthusiast          |
-|                                                              |
-|  I build products that feel polished, fast, and useful.      |
-|  React, Node.js, TypeScript, MongoDB, PostgreSQL, Prisma,    |
-|  Express, Angular, Next.js, and cloud-first delivery.        |
-+--------------------------------------------------------------+
-```
+I’m Nevil Usdad, a full-stack developer focused on building polished, production-ready web applications that feel elegant, fast, and practical. I enjoy shaping ideas into thoughtful digital products with a strong balance of engineering depth, clean UI, and reliable user experience.
 
-I like shipping clean interfaces, practical systems, and a little bit of personality. My work mixes product thinking, full-stack engineering, and AI-powered tooling.
+My work sits at the intersection of product thinking, frontend craftsmanship, and backend structure. I like shipping systems that are easy to use, easy to trust, and built to last.
 
-### What I care about
+### What I value
 
-- Beautiful UI with real utility
-- Reliable backends and clean architecture
-- Fast iteration without sacrificing quality
-- Projects that solve a real problem
+- Clean interfaces with a premium feel
+- Scalable architecture and maintainable code
+- Fast, responsive user experiences
+- Useful products over flashy complexity
 
 ---
 

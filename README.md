@@ -1,28 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Nevil%20Usdad&fontFamily=Cinzel&fontSize=48&fontColor=F8E7C3&animation=twinkling&fontAlignY=35" width="100%" />
+<!-- Animated Background Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C06C84,100:6C5B7B&height=300&section=header&text=Nevil%20Usdad&fontFamily=Righteous&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+developer+building+smart+products;React+%2B+Node.js+%2B+TypeScript+%3D+my+happy+place;AI-powered+experiences%2C+clean+UI%2C+fast+shipping;Always+learning%2C+always+shipping&font=Fira%20Code&center=true&width=900&height=70&color=00E5FF&vCenter=true&pause=900&size=24" alt="Typing SVG" />
-
-<p>
-  <a href="https://github.com/nevilusdad777"><img src="https://img.shields.io/badge/GitHub-nevilusdad777-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://nevilusdad.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-00C6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:nevilusdad@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=nevilusdad777&style=for-the-badge&color=00C6FF" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/nevilusdad777?label=Followers&style=for-the-badge&color=7C4DFF" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/nevilusdad777?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F5A623" alt="Stars" />
-</p>
-
+<!-- Profile Picture with Styled Border -->
+<div style="display: flex; justify-content: center; margin: -40px 0 20px 0;">
+  <img 
+    src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" 
+    alt="Nevil Usdad" 
+    width="180" 
+    height="180" 
+    style="
+      border-radius: 50%;
+      border: 5px solid #FF6B9D;
+      box-shadow: 0 0 30px rgba(255, 107, 157, 0.6), 0 0 60px rgba(108, 91, 123, 0.3);
+      background: linear-gradient(135deg, #FF6B9D, #C06C84, #6C5B7B);
+      padding: 3px;
+    "
+  />
 </div>
+
+<!-- Animated Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+developer+crafting+elegant+products;React+%2B+Node.js+%2B+TypeScript+mastery;AI-powered+experiences%2C+clean+code%2C+fast+shipping;Always+learning%2C+always+shipping+something+sharp&font=Fira%20Code&center=true&width=900&height=80&color=FF6B9D&vCenter=true&pause=900&size=22" alt="Typing SVG" />
+
+<!-- Enhanced Social Badges with New Theme -->
+<p>
+  <a href="https://github.com/nevilusdad777"><img src="https://img.shields.io/badge/GitHub-nevilusdad777-6C5B7B?style=for-the-badge&logo=github&logoColor=FF6B9D" alt="GitHub" /></a>
+  <a href="https://nevilusdad.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:nevilusdad@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-C06C84?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<!-- Stats with Gradient -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=nevilusdad777&style=for-the-badge&color=FF6B9D" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/nevilusdad777?label=Followers&style=for-the-badge&color=C06C84" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/nevilusdad777?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=6C5B7B" alt="Stars" />
+</p>
 
 ---
 
+</div>
+
 ## About Me
 
-I’m Nevil Usdad, a full-stack developer focused on building polished, production-ready web applications that feel elegant, fast, and practical. I enjoy shaping ideas into thoughtful digital products with a strong balance of engineering depth, clean UI, and reliable user experience.
+I'm Nevil Usdad, a full-stack developer focused on building polished, production-ready web applications that feel elegant, fast, and practical. I enjoy shaping ideas into thoughtful digital products with a strong balance of engineering depth, clean UI, and reliable user experience.
 
 My work sits at the intersection of product thinking, frontend craftsmanship, and backend structure. I like shipping systems that are easy to use, easy to trust, and built to last.
 
@@ -74,14 +95,14 @@ My work sits at the intersection of product thinking, frontend craftsmanship, an
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>🚀 What I’m Building</b><br/><br/>
+      <b>🚀 What I'm Building</b><br/><br/>
       • Sharper full-stack products with cleaner user flows<br/>
       • AI-powered features that feel useful, not gimmicky<br/>
       • Better performance, deployment, and system design discipline<br/>
       • Reusable UI patterns that scale across projects
     </td>
     <td width="50%" valign="top">
-      <b>🧭 What I’m Optimizing</b><br/><br/>
+      <b>🧭 What I'm Optimizing</b><br/><br/>
       • Modern React and TypeScript architecture<br/>
       • Secure backend APIs and auth flows<br/>
       • Responsive layouts that hold up on mobile<br/>
@@ -130,8 +151,8 @@ My work sits at the intersection of product thinking, frontend craftsmanship, an
       • Gemini + Deepgram + Murf Falcon integration<br/>
       • Responsive React / Next.js interface<br/>
       • Designed for high-performance conversational workflows<br/><br/>
-      <img src="https://img.shields.io/github/repo-size/nevilusdad777/murf-livekit-voice-assistant?style=for-the-badge&color=00C6FF" />
-      <img src="https://img.shields.io/github/last-commit/nevilusdad777/murf-livekit-voice-assistant?style=for-the-badge&color=7C4DFF" />
+      <img src="https://img.shields.io/github/repo-size/nevilusdad777/murf-livekit-voice-assistant?style=for-the-badge&color=FF6B9D" />
+      <img src="https://img.shields.io/github/last-commit/nevilusdad777/murf-livekit-voice-assistant?style=for-the-badge&color=C06C84" />
       <br/><br/>
       <a href="https://github.com/nevilusdad777/murf-livekit-voice-assistant">View Repository</a>
     </td>
@@ -143,8 +164,8 @@ My work sits at the intersection of product thinking, frontend craftsmanship, an
       • React 19, Express, and Prisma stack<br/>
       • Google OAuth and secure user flows<br/>
       • Separate admin audit panel for oversight<br/><br/>
-      <img src="https://img.shields.io/github/repo-size/nevilusdad777/Vyntra?style=for-the-badge&color=00C6FF" />
-      <img src="https://img.shields.io/github/last-commit/nevilusdad777/Vyntra?style=for-the-badge&color=7C4DFF" />
+      <img src="https://img.shields.io/github/repo-size/nevilusdad777/Vyntra?style=for-the-badge&color=FF6B9D" />
+      <img src="https://img.shields.io/github/last-commit/nevilusdad777/Vyntra?style=for-the-badge&color=C06C84" />
       <br/><br/>
       <a href="https://github.com/nevilusdad777/Vyntra">View Repository</a>
     </td>
@@ -158,8 +179,8 @@ My work sits at the intersection of product thinking, frontend craftsmanship, an
       • Workout planning and progress tracking<br/>
       • Streak-driven motivation and dashboard views<br/>
       • Built with Angular, Node.js, and MongoDB<br/><br/>
-      <img src="https://img.shields.io/github/repo-size/nevilusdad777/fitnova-fullstack?style=for-the-badge&color=00C6FF" />
-      <img src="https://img.shields.io/github/last-commit/nevilusdad777/fitnova-fullstack?style=for-the-badge&color=7C4DFF" />
+      <img src="https://img.shields.io/github/repo-size/nevilusdad777/fitnova-fullstack?style=for-the-badge&color=FF6B9D" />
+      <img src="https://img.shields.io/github/last-commit/nevilusdad777/fitnova-fullstack?style=for-the-badge&color=C06C84" />
       <br/><br/>
       <a href="https://github.com/nevilusdad777/fitnova-fullstack">View Repository</a>
     </td>
@@ -171,8 +192,8 @@ My work sits at the intersection of product thinking, frontend craftsmanship, an
       • Authentication and authorization flows<br/>
       • Menu browsing, cart, and order management<br/>
       • Admin dashboard for daily operations<br/><br/>
-      <img src="https://img.shields.io/github/repo-size/nevilusdad777/Brew-Bliss-Cafe?style=for-the-badge&color=00C6FF" />
-      <img src="https://img.shields.io/github/last-commit/nevilusdad777/Brew-Bliss-Cafe?style=for-the-badge&color=7C4DFF" />
+      <img src="https://img.shields.io/github/repo-size/nevilusdad777/Brew-Bliss-Cafe?style=for-the-badge&color=FF6B9D" />
+      <img src="https://img.shields.io/github/last-commit/nevilusdad777/Brew-Bliss-Cafe?style=for-the-badge&color=C06C84" />
       <br/><br/>
       <a href="https://github.com/nevilusdad777/Brew-Bliss-Cafe">View Repository</a>
     </td>
@@ -186,8 +207,8 @@ My work sits at the intersection of product thinking, frontend craftsmanship, an
       • Modern responsive presentation<br/>
       • React and Vite stack<br/>
       • Built to keep the developer story clean and direct<br/><br/>
-      <img src="https://img.shields.io/github/repo-size/nevilusdad777/Nevil_Portfolio?style=for-the-badge&color=00C6FF" />
-      <img src="https://img.shields.io/github/last-commit/nevilusdad777/Nevil_Portfolio?style=for-the-badge&color=7C4DFF" />
+      <img src="https://img.shields.io/github/repo-size/nevilusdad777/Nevil_Portfolio?style=for-the-badge&color=FF6B9D" />
+      <img src="https://img.shields.io/github/last-commit/nevilusdad777/Nevil_Portfolio?style=for-the-badge&color=C06C84" />
       <br/><br/>
       <a href="https://github.com/nevilusdad777/Nevil_Portfolio">View Repository</a>
     </td>
@@ -199,8 +220,8 @@ My work sits at the intersection of product thinking, frontend craftsmanship, an
       • Gemini-assisted insight generation<br/>
       • React, Node.js, and MongoDB stack<br/>
       • Built around useful user guidance rather than noise<br/><br/>
-      <img src="https://img.shields.io/github/repo-size/nevilusdad777/CareerIQ?style=for-the-badge&color=00C6FF" />
-      <img src="https://img.shields.io/github/last-commit/nevilusdad777/CareerIQ?style=for-the-badge&color=7C4DFF" />
+      <img src="https://img.shields.io/github/repo-size/nevilusdad777/CareerIQ?style=for-the-badge&color=FF6B9D" />
+      <img src="https://img.shields.io/github/last-commit/nevilusdad777/CareerIQ?style=for-the-badge&color=C06C84" />
       <br/><br/>
       <a href="https://github.com/nevilusdad777/CareerIQ">View Repository</a>
     </td>
@@ -214,8 +235,8 @@ My work sits at the intersection of product thinking, frontend craftsmanship, an
       • End-to-end sales workflow coverage<br/>
       • Secure role-based access and auditability<br/>
       • Designed for scalable business operations<br/><br/>
-      <img src="https://img.shields.io/github/repo-size/nevilusdad777/Universel-Sales-ERP?style=for-the-badge&color=00C6FF" />
-      <img src="https://img.shields.io/github/last-commit/nevilusdad777/Universel-Sales-ERP?style=for-the-badge&color=7C4DFF" />
+      <img src="https://img.shields.io/github/repo-size/nevilusdad777/Universel-Sales-ERP?style=for-the-badge&color=FF6B9D" />
+      <img src="https://img.shields.io/github/last-commit/nevilusdad777/Universel-Sales-ERP?style=for-the-badge&color=C06C84" />
       <br/><br/>
       <a href="https://github.com/nevilusdad777/Universel-Sales-ERP">View Repository</a>
     </td>
@@ -260,14 +281,14 @@ learning/
 
 ---
 
-## Let’s Build Something Sharp
+## Let's Build Something Sharp
 
 <p align="center">
-  <a href="https://nevilusdad.netlify.app/"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00C6FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:nevilusdad@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/nevilusdad777?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repos-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://nevilusdad.netlify.app/"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:nevilusdad@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-C06C84?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/nevilusdad777?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repos-6C5B7B?style=for-the-badge&logo=github" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=160&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5B7B,50:C06C84,100:FF6B9D&height=160&section=footer" width="100%" />
 
 <!-- SEO: full-stack developer, React, Next.js, Angular, Node.js, Express, TypeScript, JavaScript, MongoDB, PostgreSQL, Prisma, Docker, GitHub Actions, AI products, voice assistant, portfolio, web development, SaaS, open source, software engineer, frontend, backend, UI/UX, cloud deployment, DevOps -->

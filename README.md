@@ -21,7 +21,6 @@
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=nevilusdad777&label=PLAYERS+VISITED&style=flat-square&color=39FF14&labelColor=0B0B0F" />
-<img src="https://img.shields.io/github/followers/nevilusdad777?label=FOLLOWERS&style=flat-square&color=FFB000&labelColor=0B0B0F" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=4" width="100%" />
 
@@ -54,10 +53,20 @@ DEVOPS      ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱  LV.11
 SYSTEM DSGN ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱  LV.10  << GRINDING
 ```
 
+```text
+=============== HI-SCORE BOARD ===============
+  PROJECTS SHIPPED ......... 07
+  AI-POWERED PRODUCTS ...... 02
+  FRAMEWORKS ............... React · Next.js · Angular
+  DATABASES ................ MongoDB · PostgreSQL
+  AUTH & SECURITY .......... OAuth · RBAC · Audit trails
+==============================================
+```
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nevilusdad777&show_icons=true&hide_border=false&bg_color=0B0B0F&title_color=39FF14&text_color=E6E6E6&icon_color=FFB000&border_color=39FF14&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevilusdad777&layout=compact&bg_color=0B0B0F&title_color=FFB000&text_color=E6E6E6&border_color=FFB000" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnevilusdad777&query=%24.public_repos&label=PUBLIC+REPOS&style=for-the-badge&color=39FF14&labelColor=0B0B0F" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnevilusdad777&query=%24.created_at&label=PLAYER+SINCE&style=for-the-badge&color=FFB000&labelColor=0B0B0F" />
 
 </div>
 
@@ -149,22 +158,21 @@ SYSTEM DSGN ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱  LV.10 
 
 <img src="https://readme-typing-svg.demolab.com/?font=Silkscreen&size=18&duration=1500&pause=100000&repeat=false&color=FFB000&width=500&height=40&lines=%5B+ACHIEVEMENTS+%5D" />
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nevilusdad777&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=nevilusdad777&background=0B0B0F&border=39FF14&stroke=39FF14&ring=FFB000&fire=FF2E63&currStreakNum=39FF14&sideNums=E6E6E6&currStreakLabel=FFB000&sideLabels=39FF14&dates=8A8A8A" />
-
-</div>
+```text
+[x] UNLOCKED  Real-time voice AI assistant (Gemini + Deepgram + Murf)
+[x] UNLOCKED  Enterprise sales ERP with RBAC and audit trails
+[x] UNLOCKED  Finance platform with Google OAuth + admin audit panel
+[x] UNLOCKED  AI career guidance and placement predictor
+[x] UNLOCKED  Three frameworks mastered: React · Next.js · Angular
+[ ] LOCKED    Big open-source contribution  << NEXT QUEST
+```
 
 <img src="https://readme-typing-svg.demolab.com/?font=Silkscreen&size=18&duration=1500&pause=100000&repeat=false&color=FF2E63&width=500&height=40&lines=%5B+PAC-MAN+GRAPH+%5D" />
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nevilusdad777/nevilusdad777/output/pacman-contribution-graph-dark.svg" />
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nevilusdad777/nevilusdad777/output/pacman-contribution-graph.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nevilusdad777/nevilusdad777/pacman-output/pacman-contribution-graph-dark.svg" />
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nevilusdad777/nevilusdad777/pacman-output/pacman-contribution-graph.svg" />
   </picture>
 </p>
 

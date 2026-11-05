@@ -1,273 +1,247 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Nevil%20Usdad&fontFamily=Cinzel&fontSize=48&fontColor=F8E7C3&animation=twinkling&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1c2c,50:5d275d,100:b13e53&height=140&section=header&text=NEVIL%20USDAD&fontColor=ffcd75&fontSize=44&fontAlignY=45&desc=PRESS%20START%20TO%20CONTINUE&descSize=16&descAlignY=72&descColor=a7f070" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+developer+building+smart+products;React+%2B+Node.js+%2B+TypeScript+%3D+my+happy+place;AI-powered+experiences%2C+clean+UI%2C+fast+shipping;Always+learning%2C+always+shipping&font=Fira%20Code&center=true&width=900&height=70&color=00E5FF&vCenter=true&pause=900&size=24" alt="Typing SVG" />
-
-<p>
-  <a href="https://github.com/nevilusdad777"><img src="https://img.shields.io/badge/GitHub-nevilusdad777-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://nevilusdad.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-00C6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:nevilusdad@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com/?lines=PLAYER+1+%3A+FULL-STACK+DEVELOPER;CLASS+%3A+REACT+%2B+NODE+%2B+TYPESCRIPT;SPECIAL+MOVE+%3A+AI-POWERED+PRODUCTS;STATUS+%3A+ALWAYS+LEARNING%2C+ALWAYS+SHIPPING&font=Press+Start+2P&center=true&width=900&height=60&color=A7F070&vCenter=true&pause=1000&size=14" alt="Typing SVG" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=nevilusdad777&style=for-the-badge&color=00C6FF" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/nevilusdad777?label=Followers&style=for-the-badge&color=7C4DFF" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/nevilusdad777?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F5A623" alt="Stars" />
+  <a href="https://github.com/nevilusdad777"><img src="https://img.shields.io/badge/GITHUB-nevilusdad777-1a1c2c?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://nevilusdad.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-a7f070?style=flat-square&logo=vercel&logoColor=1a1c2c" alt="Portfolio" /></a>
+  <a href="mailto:nevilusdad@gmail.com"><img src="https://img.shields.io/badge/EMAIL-INSERT%20COIN-b13e53?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=nevilusdad777&label=PLAYERS+VISITED&style=flat-square&color=5d275d" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/nevilusdad777?label=FOLLOWERS&style=flat-square&color=41a6f6" alt="Followers" />
 
 </div>
 
 ---
 
-## About Me
+## 🕹️ PLAYER CARD
 
-I’m Nevil Usdad, a full-stack developer focused on building polished, production-ready web applications that feel elegant, fast, and practical. I enjoy shaping ideas into thoughtful digital products with a strong balance of engineering depth, clean UI, and reliable user experience.
+```text
+╔══════════════════════════════════════════════════╗
+║  NAME    : NEVIL USDAD                           ║
+║  CLASS   : FULL-STACK DEVELOPER                  ║
+║  LEVEL   : ∞  (always leveling up)               ║
+║  GUILD   : OPEN TO COLLABS & FREELANCE           ║
+║  WEAPON  : React · Node.js · TypeScript          ║
+║  MISSION : Ship polished, useful products        ║
+╚══════════════════════════════════════════════════╝
+```
 
-My work sits at the intersection of product thinking, frontend craftsmanship, and backend structure. I like shipping systems that are easy to use, easy to trust, and built to last.
+> *"I prefer shipping something useful over polishing a concept forever."*
 
-### What I value
+### 🎯 Player Values
 
-- Clean interfaces with a premium feel
-- Scalable architecture and maintainable code
-- Fast, responsive user experiences
-- Useful products over flashy complexity
-
----
-
-## Tech Stack
-
-### Languages & Frameworks
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### Data, DevOps, and Tooling
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
-</p>
+- 🟩 Clean interfaces with a premium feel
+- 🟩 Scalable architecture, maintainable code
+- 🟩 Fast, responsive experiences
+- 🟩 Useful products over flashy complexity
 
 ---
 
-## Current Focus
+## 📊 STATS & XP
+
+```text
+FRONTEND   ██████████████████░░  LV.18
+BACKEND    ████████████████░░░░  LV.16
+TYPESCRIPT ████████████████░░░░  LV.16
+DATABASES  ██████████████░░░░░░  LV.14
+AI / LLMs  █████████████░░░░░░░  LV.13
+DEVOPS     ███████████░░░░░░░░░  LV.11
+SYSTEM DSN ██████████░░░░░░░░░░  LV.10  ← currently grinding
+```
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nevilusdad777&show_icons=true&hide_border=false&bg_color=1a1c2c&title_color=ffcd75&text_color=f4f4f4&icon_color=41a6f6&border_color=5d275d&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevilusdad777&layout=compact&bg_color=1a1c2c&title_color=ffcd75&text_color=f4f4f4&border_color=5d275d" alt="Top languages" />
+
+</div>
+
+---
+
+## 🎒 INVENTORY
+
+**⚔️ Weapons (Languages & Frameworks)**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+**🧪 Potions (Data, DevOps & Tooling)**
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+</p>
+
+---
+
+## 🗺️ QUEST LOG (Featured Projects)
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>🚀 What I’m Building</b><br/><br/>
-      • Sharper full-stack products with cleaner user flows<br/>
-      • AI-powered features that feel useful, not gimmicky<br/>
-      • Better performance, deployment, and system design discipline<br/>
-      • Reusable UI patterns that scale across projects
+      <h3>🤖 QUEST 01 · Voice Assistant</h3>
+      <b><a href="https://github.com/nevilusdad777/murf-livekit-voice-assistant">murf-livekit-voice-assistant</a></b><br/>
+      <sub>DIFFICULTY: ★★★★★</sub><br/><br/>
+      Real-time voice AI assistant with a futuristic dashboard and live interaction flow.<br/><br/>
+      🏆 <b>Loot:</b> Gemini + Deepgram + Murf Falcon · React / Next.js<br/><br/>
+      <img src="https://img.shields.io/github/repo-size/nevilusdad777/murf-livekit-voice-assistant?style=flat-square&color=a7f070&label=SIZE" />
+      <img src="https://img.shields.io/github/last-commit/nevilusdad777/murf-livekit-voice-assistant?style=flat-square&color=41a6f6&label=LAST%20SAVE" />
     </td>
     <td width="50%" valign="top">
-      <b>🧭 What I’m Optimizing</b><br/><br/>
-      • Modern React and TypeScript architecture<br/>
-      • Secure backend APIs and auth flows<br/>
-      • Responsive layouts that hold up on mobile<br/>
-      • Production-quality polish in every repo
+      <h3>💸 QUEST 02 · Vyntra</h3>
+      <b><a href="https://github.com/nevilusdad777/Vyntra">Vyntra</a></b><br/>
+      <sub>DIFFICULTY: ★★★★☆</sub><br/><br/>
+      Premium personal finance and expense tracker with secure auth and an admin audit panel.<br/><br/>
+      🏆 <b>Loot:</b> React 19 · Express · Prisma · Google OAuth<br/><br/>
+      <img src="https://img.shields.io/github/repo-size/nevilusdad777/Vyntra?style=flat-square&color=a7f070&label=SIZE" />
+      <img src="https://img.shields.io/github/last-commit/nevilusdad777/Vyntra?style=flat-square&color=41a6f6&label=LAST%20SAVE" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>📬 Open To</b><br/><br/>
-      • Interesting full-stack collaborations<br/>
-      • SaaS, AI, and productivity products<br/>
-      • Design-heavy builds with strong UX direction<br/>
-      • Freelance or contract opportunities
+      <h3>🏋️ QUEST 03 · FitNova</h3>
+      <b><a href="https://github.com/nevilusdad777/fitnova-fullstack">fitnova-fullstack</a></b><br/>
+      <sub>DIFFICULTY: ★★★★☆</sub><br/><br/>
+      Fitness tracker for workouts, nutrition, hydration and streaks.<br/><br/>
+      🏆 <b>Loot:</b> Angular · Node.js · MongoDB<br/><br/>
+      <img src="https://img.shields.io/github/repo-size/nevilusdad777/fitnova-fullstack?style=flat-square&color=a7f070&label=SIZE" />
+      <img src="https://img.shields.io/github/last-commit/nevilusdad777/fitnova-fullstack?style=flat-square&color=41a6f6&label=LAST%20SAVE" />
     </td>
     <td width="50%" valign="top">
-      <b>🔗 Quick Links</b><br/><br/>
-      <a href="https://github.com/nevilusdad777?tab=repositories">View all repositories</a><br/>
-      <a href="https://nevilusdad.netlify.app/">Visit portfolio</a><br/>
-      <a href="mailto:nevilusdad@gmail.com">Email me</a>
+      <h3>☕ QUEST 04 · Brew & Bliss</h3>
+      <b><a href="https://github.com/nevilusdad777/Brew-Bliss-Cafe">Brew-Bliss-Cafe</a></b><br/>
+      <sub>DIFFICULTY: ★★★☆☆</sub><br/><br/>
+      Cafe commerce system with menu, cart, orders and an admin dashboard.<br/><br/>
+      🏆 <b>Loot:</b> Auth flows · Order management · Admin ops<br/><br/>
+      <img src="https://img.shields.io/github/repo-size/nevilusdad777/Brew-Bliss-Cafe?style=flat-square&color=a7f070&label=SIZE" />
+      <img src="https://img.shields.io/github/last-commit/nevilusdad777/Brew-Bliss-Cafe?style=flat-square&color=41a6f6&label=LAST%20SAVE" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 QUEST 05 · CareerIQ</h3>
+      <b><a href="https://github.com/nevilusdad777/CareerIQ">CareerIQ</a></b><br/>
+      <sub>DIFFICULTY: ★★★★☆</sub><br/><br/>
+      AI-assisted career guidance and placement predictor.<br/><br/>
+      🏆 <b>Loot:</b> Gemini insights · React · Node.js · MongoDB<br/><br/>
+      <img src="https://img.shields.io/github/repo-size/nevilusdad777/CareerIQ?style=flat-square&color=a7f070&label=SIZE" />
+      <img src="https://img.shields.io/github/last-commit/nevilusdad777/CareerIQ?style=flat-square&color=41a6f6&label=LAST%20SAVE" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏢 QUEST 06 · Sales ERP</h3>
+      <b><a href="https://github.com/nevilusdad777/Universel-Sales-ERP">Universel-Sales-ERP</a></b><br/>
+      <sub>DIFFICULTY: ★★★★★</sub><br/><br/>
+      Enterprise B2B ERP: quotations, orders, invoices, payments and RBAC.<br/><br/>
+      🏆 <b>Loot:</b> Role-based access · Audit trails · Scalable ops<br/><br/>
+      <img src="https://img.shields.io/github/repo-size/nevilusdad777/Universel-Sales-ERP?style=flat-square&color=a7f070&label=SIZE" />
+      <img src="https://img.shields.io/github/last-commit/nevilusdad777/Universel-Sales-ERP?style=flat-square&color=41a6f6&label=LAST%20SAVE" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 QUEST 07 · Portfolio</h3>
+      <b><a href="https://github.com/nevilusdad777/Nevil_Portfolio">Nevil_Portfolio</a></b><br/>
+      <sub>DIFFICULTY: ★★☆☆☆</sub><br/><br/>
+      Personal portfolio focused on project showcase, skills and clear contact.<br/><br/>
+      🏆 <b>Loot:</b> React · Vite · Responsive design<br/><br/>
+      <img src="https://img.shields.io/github/repo-size/nevilusdad777/Nevil_Portfolio?style=flat-square&color=a7f070&label=SIZE" />
+      <img src="https://img.shields.io/github/last-commit/nevilusdad777/Nevil_Portfolio?style=flat-square&color=41a6f6&label=LAST%20SAVE" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>❓ QUEST 08 · ???</h3>
+      <sub>DIFFICULTY: ???</sub><br/><br/>
+      <b>LOCKED.</b> Next project is loading...<br/><br/>
+      <a href="https://github.com/nevilusdad777?tab=repositories">▶ Browse all repositories</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## Contribution Snake
+## 🏆 ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nevilusdad777&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=nevilusdad777&background=1a1c2c&border=5d275d&stroke=5d275d&ring=ffcd75&fire=b13e53&currStreakNum=a7f070&sideNums=f4f4f4&currStreakLabel=ffcd75&sideLabels=41a6f6&dates=94b0c2" alt="Streak" />
+
+</div>
+
+---
+
+## 👾 PAC-MAN CONTRIBUTION GRAPH
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nevilusdad777/nevilusdad777/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/nevilusdad777/nevilusdad777/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nevilusdad777/nevilusdad777/output/pacman-contribution-graph-dark.svg" />
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nevilusdad777/nevilusdad777/output/pacman-contribution-graph.svg" />
   </picture>
 </p>
 
----
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🤖 Murf LiveKit Voice Assistant</b><br/>
-      <sub><a href="https://github.com/nevilusdad777/murf-livekit-voice-assistant">nevilusdad777/murf-livekit-voice-assistant</a></sub><br/><br/>
-      <b>What it does:</b> Real-time voice AI assistant with a futuristic dashboard, live interaction flow, and production-focused UX.<br/><br/>
-      <b>Highlights:</b><br/>
-      • Gemini + Deepgram + Murf Falcon integration<br/>
-      • Responsive React / Next.js interface<br/>
-      • Designed for high-performance conversational workflows<br/><br/>
-      <img src="https://img.shields.io/github/repo-size/nevilusdad777/murf-livekit-voice-assistant?style=for-the-badge&color=00C6FF" />
-      <img src="https://img.shields.io/github/last-commit/nevilusdad777/murf-livekit-voice-assistant?style=for-the-badge&color=7C4DFF" />
-      <br/><br/>
-      <a href="https://github.com/nevilusdad777/murf-livekit-voice-assistant">View Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <b>💸 Vyntra</b><br/>
-      <sub><a href="https://github.com/nevilusdad777/Vyntra">nevilusdad777/Vyntra</a></sub><br/><br/>
-      <b>What it does:</b> Premium personal finance and expense tracking platform with secure auth and admin controls.<br/><br/>
-      <b>Highlights:</b><br/>
-      • React 19, Express, and Prisma stack<br/>
-      • Google OAuth and secure user flows<br/>
-      • Separate admin audit panel for oversight<br/><br/>
-      <img src="https://img.shields.io/github/repo-size/nevilusdad777/Vyntra?style=for-the-badge&color=00C6FF" />
-      <img src="https://img.shields.io/github/last-commit/nevilusdad777/Vyntra?style=for-the-badge&color=7C4DFF" />
-      <br/><br/>
-      <a href="https://github.com/nevilusdad777/Vyntra">View Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🏋️ FitNova</b><br/>
-      <sub><a href="https://github.com/nevilusdad777/fitnova-fullstack">nevilusdad777/fitnova-fullstack</a></sub><br/><br/>
-      <b>What it does:</b> Full-stack fitness tracking system for workouts, nutrition, hydration, and consistency tracking.<br/><br/>
-      <b>Highlights:</b><br/>
-      • Workout planning and progress tracking<br/>
-      • Streak-driven motivation and dashboard views<br/>
-      • Built with Angular, Node.js, and MongoDB<br/><br/>
-      <img src="https://img.shields.io/github/repo-size/nevilusdad777/fitnova-fullstack?style=for-the-badge&color=00C6FF" />
-      <img src="https://img.shields.io/github/last-commit/nevilusdad777/fitnova-fullstack?style=for-the-badge&color=7C4DFF" />
-      <br/><br/>
-      <a href="https://github.com/nevilusdad777/fitnova-fullstack">View Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <b>☕ Brew & Bliss Cafe</b><br/>
-      <sub><a href="https://github.com/nevilusdad777/Brew-Bliss-Cafe">nevilusdad777/Brew-Bliss-Cafe</a></sub><br/><br/>
-      <b>What it does:</b> Cafe commerce and operations system with ordering, cart management, and admin controls.<br/><br/>
-      <b>Highlights:</b><br/>
-      • Authentication and authorization flows<br/>
-      • Menu browsing, cart, and order management<br/>
-      • Admin dashboard for daily operations<br/><br/>
-      <img src="https://img.shields.io/github/repo-size/nevilusdad777/Brew-Bliss-Cafe?style=for-the-badge&color=00C6FF" />
-      <img src="https://img.shields.io/github/last-commit/nevilusdad777/Brew-Bliss-Cafe?style=for-the-badge&color=7C4DFF" />
-      <br/><br/>
-      <a href="https://github.com/nevilusdad777/Brew-Bliss-Cafe">View Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🎨 Nevil Portfolio</b><br/>
-      <sub><a href="https://github.com/nevilusdad777/Nevil_Portfolio">nevilusdad777/Nevil_Portfolio</a></sub><br/><br/>
-      <b>What it does:</b> Personal portfolio site focused on project showcase, skills, and contact clarity.<br/><br/>
-      <b>Highlights:</b><br/>
-      • Modern responsive presentation<br/>
-      • React and Vite stack<br/>
-      • Built to keep the developer story clean and direct<br/><br/>
-      <img src="https://img.shields.io/github/repo-size/nevilusdad777/Nevil_Portfolio?style=for-the-badge&color=00C6FF" />
-      <img src="https://img.shields.io/github/last-commit/nevilusdad777/Nevil_Portfolio?style=for-the-badge&color=7C4DFF" />
-      <br/><br/>
-      <a href="https://github.com/nevilusdad777/Nevil_Portfolio">View Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <b>🎯 CareerIQ</b><br/>
-      <sub><a href="https://github.com/nevilusdad777/CareerIQ">nevilusdad777/CareerIQ</a></sub><br/><br/>
-      <b>What it does:</b> AI-assisted career guidance and placement predictor with smart recommendations and progress views.<br/><br/>
-      <b>Highlights:</b><br/>
-      • Gemini-assisted insight generation<br/>
-      • React, Node.js, and MongoDB stack<br/>
-      • Built around useful user guidance rather than noise<br/><br/>
-      <img src="https://img.shields.io/github/repo-size/nevilusdad777/CareerIQ?style=for-the-badge&color=00C6FF" />
-      <img src="https://img.shields.io/github/last-commit/nevilusdad777/CareerIQ?style=for-the-badge&color=7C4DFF" />
-      <br/><br/>
-      <a href="https://github.com/nevilusdad777/CareerIQ">View Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🏢 Universel Sales ERP</b><br/>
-      <sub><a href="https://github.com/nevilusdad777/Universel-Sales-ERP">nevilusdad777/Universel-Sales-ERP</a></sub><br/><br/>
-      <b>What it does:</b> Enterprise B2B sales ERP covering quotations, orders, invoices, payments, and RBAC.<br/><br/>
-      <b>Highlights:</b><br/>
-      • End-to-end sales workflow coverage<br/>
-      • Secure role-based access and auditability<br/>
-      • Designed for scalable business operations<br/><br/>
-      <img src="https://img.shields.io/github/repo-size/nevilusdad777/Universel-Sales-ERP?style=for-the-badge&color=00C6FF" />
-      <img src="https://img.shields.io/github/last-commit/nevilusdad777/Universel-Sales-ERP?style=for-the-badge&color=7C4DFF" />
-      <br/><br/>
-      <a href="https://github.com/nevilusdad777/Universel-Sales-ERP">View Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <b>✨ Notes on the project list</b><br/><br/>
-      Each card above is now text-first, so it stays readable even when preview images do not render. If you add a new repo, duplicate one card and keep the same structure: title, repo link, short summary, highlights, repo size, and last commit.
-    </td>
-  </tr>
-</table>
+> Needs the workflow file `pacman.yml` (provided separately). Until it runs once, this image will be blank.
 
 ---
 
-## Goals for 2026
-
-- Ship more polished, production-ready full-stack products
-- Push deeper into AI-assisted product experiences
-- Build cleaner design systems and reusable UI patterns
-- Contribute more open-source work and technical write-ups
-- Strengthen cloud deployment, performance, and architecture skills
-
----
-
-## Currently Learning
+## 📜 CURRENT MISSION
 
 ```text
-learning/
-├── advanced TypeScript patterns
-├── scalable React architecture
-├── AI workflows and agentic tooling
-├── cloud deployment and CI/CD
-└── system design for modern SaaS products
+> loading current_quest...
+  [■■■■■■■■□□] 80%
+
+  BUILDING   : sharper full-stack products, useful AI features
+  OPTIMIZING : React + TS architecture, secure APIs & auth,
+               mobile-first layouts, production polish
+  LEARNING   : advanced TypeScript · scalable React ·
+               agentic AI workflows · CI/CD · SaaS system design
 ```
 
+## 🌟 SIDE MISSIONS · 2026
+
+- [ ] Ship more polished, production-ready full-stack products
+- [ ] Push deeper into AI-assisted product experiences
+- [ ] Build cleaner design systems and reusable UI patterns
+- [ ] Contribute more open source and write technical posts
+- [ ] Level up cloud deployment, performance and architecture
+
 ---
 
-## Fun Facts
+<div align="center">
 
-- I like mixing serious engineering with playful presentation.
-- I enjoy turning complex workflows into clean user experiences.
-- I prefer shipping something useful over polishing a concept forever.
-- I am always open to building products that feel premium and fast.
+## 🪙 INSERT COIN TO COLLABORATE
 
----
+<img src="https://readme-typing-svg.demolab.com/?lines=GAME+OVER%3F+NEVER.;CONTINUE%3F+9...+8...+7...;LET'S+BUILD+SOMETHING+SHARP&font=Press+Start+2P&center=true&width=700&height=50&color=FFCD75&vCenter=true&size=14" alt="Footer typing" />
 
-## Let’s Build Something Sharp
-
-<p align="center">
-  <a href="https://nevilusdad.netlify.app/"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00C6FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:nevilusdad@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/nevilusdad777?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repos-181717?style=for-the-badge&logo=github" /></a>
+<p>
+  <a href="https://nevilusdad.netlify.app/"><img src="https://img.shields.io/badge/▶_PORTFOLIO-a7f070?style=for-the-badge&logoColor=1a1c2c" /></a>
+  <a href="mailto:nevilusdad@gmail.com"><img src="https://img.shields.io/badge/▶_EMAIL-b13e53?style=for-the-badge" /></a>
+  <a href="https://github.com/nevilusdad777?tab=repositories"><img src="https://img.shields.io/badge/▶_ALL_REPOS-1a1c2c?style=for-the-badge" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=160&section=footer" width="100%" />
+</div>
 
-<!-- SEO: full-stack developer, React, Next.js, Angular, Node.js, Express, TypeScript, JavaScript, MongoDB, PostgreSQL, Prisma, Docker, GitHub Actions, AI products, voice assistant, portfolio, web development, SaaS, open source, software engineer, frontend, backend, UI/UX, cloud deployment, DevOps -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b13e53,50:5d275d,100:1a1c2c&height=60&section=footer" width="100%" />
